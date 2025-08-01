@@ -89,11 +89,3 @@ Given movie descriptions, the task is to predict the most likely **genre**. This
 * Try Transformer-based models (e.g., BERT)
 * Fine-tune for multi-label classification
 
----
-
-
-* A `requirements.txt` file?
-* A `LICENSE` or GitHub Actions badge?
-* An image/graph to embed in the README?
-
-Let me know and I’ll prepare it!
